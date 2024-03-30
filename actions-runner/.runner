@@ -1,9 +1,0 @@
-﻿{
-  "agentId": 2,
-  "agentName": "deployment",
-  "poolId": 1,
-  "poolName": "Default",
-  "serverUrl": "https://pipelinesghubeus9.actions.githubusercontent.com/4PLhgzEaoD2jOX3DJwLjNxIoeEf2L1x2LWhaqqYUPdGbnGlxWT/",
-  "gitHubUrl": "https://github.com/RiyanFaroqui/lystify",
-  "workFolder": "deploy"
-}
