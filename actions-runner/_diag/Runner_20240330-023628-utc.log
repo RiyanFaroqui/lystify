@@ -1,0 +1,166 @@
+[2024-03-30 02:36:28Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2024-03-30 02:36:28Z INFO HostContext] Well known directory 'Bin': 'D:\ful stack web apps\lystify\actions-runner\bin'
+[2024-03-30 02:36:28Z INFO HostContext] Well known directory 'Root': 'D:\ful stack web apps\lystify\actions-runner'
+[2024-03-30 02:36:28Z INFO HostContext] Well known config file 'Credentials': 'D:\ful stack web apps\lystify\actions-runner\.credentials'
+[2024-03-30 02:36:28Z INFO HostContext] Well known directory 'Bin': 'D:\ful stack web apps\lystify\actions-runner\bin'
+[2024-03-30 02:36:28Z INFO HostContext] Well known directory 'Root': 'D:\ful stack web apps\lystify\actions-runner'
+[2024-03-30 02:36:28Z INFO HostContext] Well known config file 'Runner': 'D:\ful stack web apps\lystify\actions-runner\.runner'
+[2024-03-30 02:36:28Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2024-03-30 02:36:28Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.22631.
+[2024-03-30 02:36:28Z INFO Listener] Version: 2.314.1
+[2024-03-30 02:36:28Z INFO Listener] Commit: 976290d966e6cc3e748a49bf8fdbe139ff764201
+[2024-03-30 02:36:28Z INFO Listener] Culture: en-CA
+[2024-03-30 02:36:28Z INFO Listener] UI Culture: en-US
+[2024-03-30 02:36:28Z INFO HostContext] Well known directory 'Bin': 'D:\ful stack web apps\lystify\actions-runner\bin'
+[2024-03-30 02:36:28Z INFO HostContext] Well known directory 'Root': 'D:\ful stack web apps\lystify\actions-runner'
+[2024-03-30 02:36:28Z INFO Listener] Validating directory permissions for: 'D:\ful stack web apps\lystify\actions-runner'
+[2024-03-30 02:36:28Z INFO CommandLineParser] Parse
+[2024-03-30 02:36:28Z INFO CommandLineParser] Parsing 1 args
+[2024-03-30 02:36:28Z INFO CommandLineParser] parsing argument
+[2024-03-30 02:36:28Z INFO CommandLineParser] HasArgs: False
+[2024-03-30 02:36:28Z INFO CommandLineParser] Adding Command: run
+[2024-03-30 02:36:28Z INFO Listener] Arguments parsed
+[2024-03-30 02:36:28Z INFO Runner] ExecuteCommand
+[2024-03-30 02:36:28Z INFO ConfigurationStore] currentAssemblyLocation: D:\ful stack web apps\lystify\actions-runner\bin\Runner.Listener.dll
+[2024-03-30 02:36:28Z INFO HostContext] Well known directory 'Bin': 'D:\ful stack web apps\lystify\actions-runner\bin'
+[2024-03-30 02:36:28Z INFO ConfigurationStore] binPath: D:\ful stack web apps\lystify\actions-runner\bin
+[2024-03-30 02:36:28Z INFO HostContext] Well known directory 'Bin': 'D:\ful stack web apps\lystify\actions-runner\bin'
+[2024-03-30 02:36:28Z INFO HostContext] Well known directory 'Root': 'D:\ful stack web apps\lystify\actions-runner'
+[2024-03-30 02:36:28Z INFO ConfigurationStore] RootFolder: D:\ful stack web apps\lystify\actions-runner
+[2024-03-30 02:36:28Z INFO HostContext] Well known directory 'Bin': 'D:\ful stack web apps\lystify\actions-runner\bin'
+[2024-03-30 02:36:28Z INFO HostContext] Well known directory 'Root': 'D:\ful stack web apps\lystify\actions-runner'
+[2024-03-30 02:36:28Z INFO HostContext] Well known config file 'Runner': 'D:\ful stack web apps\lystify\actions-runner\.runner'
+[2024-03-30 02:36:28Z INFO ConfigurationStore] ConfigFilePath: D:\ful stack web apps\lystify\actions-runner\.runner
+[2024-03-30 02:36:28Z INFO HostContext] Well known directory 'Bin': 'D:\ful stack web apps\lystify\actions-runner\bin'
+[2024-03-30 02:36:28Z INFO HostContext] Well known directory 'Root': 'D:\ful stack web apps\lystify\actions-runner'
+[2024-03-30 02:36:28Z INFO HostContext] Well known config file 'Credentials': 'D:\ful stack web apps\lystify\actions-runner\.credentials'
+[2024-03-30 02:36:28Z INFO ConfigurationStore] CredFilePath: D:\ful stack web apps\lystify\actions-runner\.credentials
+[2024-03-30 02:36:28Z INFO HostContext] Well known directory 'Bin': 'D:\ful stack web apps\lystify\actions-runner\bin'
+[2024-03-30 02:36:28Z INFO HostContext] Well known directory 'Root': 'D:\ful stack web apps\lystify\actions-runner'
+[2024-03-30 02:36:28Z INFO HostContext] Well known config file 'MigratedCredentials': 'D:\ful stack web apps\lystify\actions-runner\.credentials_migrated'
+[2024-03-30 02:36:28Z INFO ConfigurationStore] MigratedCredFilePath: D:\ful stack web apps\lystify\actions-runner\.credentials_migrated
+[2024-03-30 02:36:28Z INFO HostContext] Well known directory 'Bin': 'D:\ful stack web apps\lystify\actions-runner\bin'
+[2024-03-30 02:36:28Z INFO HostContext] Well known directory 'Root': 'D:\ful stack web apps\lystify\actions-runner'
+[2024-03-30 02:36:28Z INFO HostContext] Well known config file 'Service': 'D:\ful stack web apps\lystify\actions-runner\.service'
+[2024-03-30 02:36:28Z INFO ConfigurationStore] ServiceConfigFilePath: D:\ful stack web apps\lystify\actions-runner\.service
+[2024-03-30 02:36:28Z INFO CommandSettings] Flag 'help': 'False'
+[2024-03-30 02:36:28Z INFO CommandSettings] Flag 'version': 'False'
+[2024-03-30 02:36:28Z INFO CommandSettings] Flag 'commit': 'False'
+[2024-03-30 02:36:28Z INFO CommandSettings] Flag 'check': 'False'
+[2024-03-30 02:36:28Z INFO CommandSettings] Command 'configure': 'False'
+[2024-03-30 02:36:28Z INFO CommandSettings] Command 'remove': 'False'
+[2024-03-30 02:36:28Z INFO CommandSettings] Command 'warmup': 'False'
+[2024-03-30 02:36:28Z INFO ConfigurationManager] LoadSettings
+[2024-03-30 02:36:28Z INFO ConfigurationStore] IsConfigured()
+[2024-03-30 02:36:28Z INFO ConfigurationStore] IsConfigured: True
+[2024-03-30 02:36:28Z INFO ConfigurationManager] Is configured: True
+[2024-03-30 02:36:28Z INFO ConfigurationStore] Read setting file: 305 chars
+[2024-03-30 02:36:28Z INFO ConfigurationManager] Settings Loaded
+[2024-03-30 02:36:28Z INFO ConfigurationStore] IsServiceConfigured()
+[2024-03-30 02:36:28Z INFO ConfigurationStore] IsServiceConfigured: False
+[2024-03-30 02:36:28Z INFO CommandSettings] Command 'run': 'True'
+[2024-03-30 02:36:28Z INFO ConfigurationStore] IsConfigured()
+[2024-03-30 02:36:28Z INFO ConfigurationStore] IsConfigured: True
+[2024-03-30 02:36:28Z INFO ConfigurationManager] Is configured: True
+[2024-03-30 02:36:28Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2024-03-30 02:36:28Z INFO Runner] Set runner startup type - Manual
+[2024-03-30 02:36:28Z INFO CommandSettings] Flag 'once': 'False'
+[2024-03-30 02:36:28Z INFO CommandSettings] Flag 'once': 'False'
+[2024-03-30 02:36:28Z INFO Runner] RunAsync
+[2024-03-30 02:36:28Z INFO ConfigurationManager] LoadSettings
+[2024-03-30 02:36:28Z INFO ConfigurationStore] IsConfigured()
+[2024-03-30 02:36:28Z INFO ConfigurationStore] IsConfigured: True
+[2024-03-30 02:36:28Z INFO ConfigurationManager] Is configured: True
+[2024-03-30 02:36:28Z INFO ConfigurationManager] Settings Loaded
+[2024-03-30 02:36:28Z INFO MessageListener] {
+  "AgentId": 2,
+  "AgentName": "deployment",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus9.actions.githubusercontent.com/4PLhgzEaoD2jOX3DJwLjNxIoeEf2L1x2LWhaqqYUPdGbnGlxWT/",
+  "GitHubUrl": "https://github.com/RiyanFaroqui/lystify",
+  "WorkFolder": "deploy"
+}
+[2024-03-30 02:36:28Z INFO MessageListener] Loading Credentials
+[2024-03-30 02:36:28Z INFO ConfigurationStore] HasCredentials()
+[2024-03-30 02:36:28Z INFO ConfigurationStore] stored True
+[2024-03-30 02:36:28Z INFO CredentialManager] GetCredentialProvider
+[2024-03-30 02:36:28Z INFO CredentialManager] Creating type OAuth
+[2024-03-30 02:36:28Z INFO CredentialManager] Creating credential type: OAuth
+[2024-03-30 02:36:28Z INFO HostContext] Well known directory 'Bin': 'D:\ful stack web apps\lystify\actions-runner\bin'
+[2024-03-30 02:36:28Z INFO HostContext] Well known directory 'Root': 'D:\ful stack web apps\lystify\actions-runner'
+[2024-03-30 02:36:28Z INFO HostContext] Well known config file 'RSACredentials': 'D:\ful stack web apps\lystify\actions-runner\.credentials_rsaparams'
+[2024-03-30 02:36:28Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\ful stack web apps\lystify\actions-runner\.credentials_rsaparams
+[2024-03-30 02:36:28Z INFO MessageListener] Attempt to create session.
+[2024-03-30 02:36:28Z INFO MessageListener] Connecting to the Runner Server...
+[2024-03-30 02:36:28Z INFO RunnerServer] EstablishVssConnection
+[2024-03-30 02:36:28Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2024-03-30 02:36:28Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-03-30 02:36:28Z INFO RunnerServer] EstablishVssConnection
+[2024-03-30 02:36:28Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2024-03-30 02:36:28Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-03-30 02:36:28Z INFO RunnerServer] EstablishVssConnection
+[2024-03-30 02:36:28Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2024-03-30 02:36:28Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2024-03-30 02:36:28Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-03-30 02:36:28Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-03-30 02:36:28Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2024-03-30 02:36:28Z INFO MessageListener] VssConnection created
+[2024-03-30 02:36:28Z INFO Terminal] WRITE LINE: 
+[2024-03-30 02:36:28Z INFO Terminal] WRITE LINE: 
+[2024-03-30 02:36:28Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\ful stack web apps\lystify\actions-runner\.credentials_rsaparams
+[2024-03-30 02:36:29Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\ful stack web apps\lystify\actions-runner\.credentials_rsaparams
+[2024-03-30 02:36:29Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2024-03-30 02:36:29Z INFO MessageListener] Session created.
+[2024-03-30 02:36:29Z INFO Terminal] WRITE LINE: Current runner version: '2.314.1'
+[2024-03-30 02:36:29Z INFO Terminal] WRITE LINE: 2024-03-30 02:36:29Z: Listening for Jobs
+[2024-03-30 02:36:29Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2024-03-30 02:36:32Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file D:\ful stack web apps\lystify\actions-runner\.credentials_rsaparams
+[2024-03-30 02:36:32Z INFO MessageListener] Message '1' received from session '785fa9fb-94dc-464c-9e5a-7f2b4a4bbc24'.
+[2024-03-30 02:36:32Z INFO Runner] Received job message of length 23564 from service, with hash '43ee7ef60bee4266705e5b33afedc7ff64ae6d86069b0090db333cb6e42df2bb'
+[2024-03-30 02:36:32Z INFO JobDispatcher] Job request 1 for plan cd8cd2d4-d2c6-4d80-ba73-42b7f6908d58 job 6621f301-ad18-5d46-97dd-869f4cb20c65 received.
+[2024-03-30 02:36:32Z INFO JobDispatcher] Pull OrchestrationId cd8cd2d4-d2c6-4d80-ba73-42b7f6908d58.build._18_x from JWT claims
+[2024-03-30 02:36:32Z INFO MessageListener] Received job status event. JobState: Busy
+[2024-03-30 02:36:32Z INFO MessageListener] _getMessagesTokenSource is already disposed.
+[2024-03-30 02:36:32Z INFO Terminal] WRITE LINE: 2024-03-30 02:36:32Z: Running job: build (18.x)
+[2024-03-30 02:36:32Z INFO JobDispatcher] Start renew job request 1 for job 6621f301-ad18-5d46-97dd-869f4cb20c65.
+[2024-03-30 02:36:32Z INFO JobDispatcher] Successfully renew job request 1, job is valid till 2024-03-30 2:46:33 AM
+[2024-03-30 02:36:32Z INFO HostContext] Well known directory 'Bin': 'D:\ful stack web apps\lystify\actions-runner\bin'
+[2024-03-30 02:36:32Z INFO ProcessInvokerWrapper] Starting process:
+[2024-03-30 02:36:32Z INFO ProcessInvokerWrapper]   File name: 'D:\ful stack web apps\lystify\actions-runner\bin\Runner.Worker.exe'
+[2024-03-30 02:36:32Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 1868 2268'
+[2024-03-30 02:36:32Z INFO ProcessInvokerWrapper]   Working directory: 'D:\ful stack web apps\lystify\actions-runner\bin'
+[2024-03-30 02:36:32Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2024-03-30 02:36:32Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2024-03-30 02:36:32Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2024-03-30 02:36:32Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2024-03-30 02:36:32Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2024-03-30 02:36:32Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2024-03-30 02:36:32Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2024-03-30 02:36:32Z INFO ProcessInvokerWrapper] Process started with process id 14596, waiting for process exit.
+[2024-03-30 02:36:32Z INFO JobDispatcher] Send job request message to worker for job 6621f301-ad18-5d46-97dd-869f4cb20c65.
+[2024-03-30 02:36:32Z INFO ProcessChannel] Sending message of length 23564, with hash '43ee7ef60bee4266705e5b33afedc7ff64ae6d86069b0090db333cb6e42df2bb'
+[2024-03-30 02:36:32Z INFO JobNotification] Entering JobStarted Notification
+[2024-03-30 02:36:32Z INFO JobNotification] Entering StartMonitor
+[2024-03-30 02:37:32Z INFO JobDispatcher] Successfully renew job request 1, job is valid till 2024-03-30 2:47:33 AM
+[2024-03-30 02:38:07Z INFO Terminal] WRITE LINE: Exiting...
+[2024-03-30 02:38:07Z INFO ConfigurationStore] IsServiceConfigured()
+[2024-03-30 02:38:07Z INFO ConfigurationStore] IsServiceConfigured: False
+[2024-03-30 02:38:07Z INFO HostContext] Runner will be shutdown for UserCancelled
+[2024-03-30 02:38:07Z WARN GitHubActionsService] GET request to https://pipelinesghubeus9.actions.githubusercontent.com/4PLhgzEaoD2jOX3DJwLjNxIoeEf2L1x2LWhaqqYUPdGbnGlxWT/_apis/distributedtask/pools/1/messages?sessionId=785fa9fb-94dc-464c-9e5a-7f2b4a4bbc24&lastMessageId=1&status=Busy&runnerVersion=2.314.1&os=Windows&architecture=X64&disableUpdate=false has been cancelled.
+[2024-03-30 02:38:07Z INFO MessageListener] Get next message has been cancelled.
+[2024-03-30 02:38:07Z INFO JobDispatcher] Shutting down JobDispatcher. Make sure all WorkerDispatcher has finished.
+[2024-03-30 02:38:07Z INFO JobDispatcher] Ensure WorkerDispatcher for job 6621f301-ad18-5d46-97dd-869f4cb20c65 run to finish, cancel any running job.
+[2024-03-30 02:38:07Z INFO JobDispatcher] Send job cancellation message to worker for job 6621f301-ad18-5d46-97dd-869f4cb20c65.
+[2024-03-30 02:38:07Z INFO ProcessChannel] Sending message of length 0, with hash 'e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855'
+[2024-03-30 02:38:10Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2024-03-30 02:38:10Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2024-03-30 02:38:10Z INFO ProcessInvokerWrapper] Finished process 14596 with exit code 102, and elapsed time 00:01:37.6994969.
+[2024-03-30 02:38:10Z INFO JobDispatcher] finish job request for job 6621f301-ad18-5d46-97dd-869f4cb20c65 with result: Canceled
+[2024-03-30 02:38:10Z INFO Terminal] WRITE LINE: 2024-03-30 02:38:10Z: Job build (18.x) completed with result: Canceled
+[2024-03-30 02:38:10Z INFO JobDispatcher] Stop renew job request for job 6621f301-ad18-5d46-97dd-869f4cb20c65.
+[2024-03-30 02:38:10Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 1.
+[2024-03-30 02:38:10Z INFO JobNotification] Entering JobCompleted Notification
+[2024-03-30 02:38:10Z INFO JobNotification] Entering EndMonitor
+[2024-03-30 02:38:10Z INFO Runner] Deleting Runner Session...
+[2024-03-30 02:38:10Z INFO Listener] Runner execution been cancelled.
